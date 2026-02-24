@@ -1,24 +1,20 @@
 class Solution {
 public:
-    unordered_map<int,int> cash;
     bool lemonadeChange(vector<int>& bills) {
+        int five=0,ten=0;
         for(int x:bills) {
-            cash[x]++;
-            int change=x-5;
-            while(change>0) {
-                if(change>=20&&cash[20]>0) {
-                    change-=20;
-                    cash[20]--;
+            if(x==5) five++;
+            else if(x==10) {
+                if(five==0) return false;
+                five--;
+                ten++;
+            } else {
+                if(ten>0&&five>0) {
+                    ten--;
+                    five--;
                 }
-                else if(change>=10&&cash[10]>0) {
-                    change-=10;
-                    cash[10]--;
-                }
-                else if(change>=5&&cash[5]>0) {
-                    change-=5;
-                    cash[5]--;
-                }
-                else if(change>0) return false;
+                else if (five>=3) five-=3;
+                else return false;
             }
         }
         return true;
