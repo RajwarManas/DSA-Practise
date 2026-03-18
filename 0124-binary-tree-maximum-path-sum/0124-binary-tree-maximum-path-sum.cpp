@@ -13,19 +13,12 @@ class Solution {
 public: 
     int pathSum(TreeNode* root,int& maxSum) {
         if(!root) return 0;
-        int left=pathSum(root->left,maxSum);
-        int right=pathSum(root->right,maxSum);
-        if(left>0&&right>0) maxSum=max(maxSum,root->val+left+right);
-        else if(left>0) maxSum=max(maxSum,root->val+left); 
-        else if(right>0) maxSum=max(maxSum,root->val+right); 
-        else {
-            maxSum=max(maxSum,root->val);
-            return root->val;
-        }
+        int left=max(0,pathSum(root->left,maxSum));
+        int right=max(0,pathSum(root->right,maxSum));
+        maxSum=max(maxSum,root->val+left+right);
         return root->val+max(left,right);
     }
     int maxPathSum(TreeNode* root) {
-        if(!root) return 0;
         int maxSum=INT_MIN;
         pathSum(root,maxSum);
         return maxSum;
