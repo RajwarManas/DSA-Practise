@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/RajwarManas/DSA-Practise/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/RajwarManas/DSA-Practise/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/RajwarManas/DSA-Practise/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/RajwarManas/DSA-Practise/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/RajwarManas/DSA-Practise/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/RajwarManas/DSA-Practise/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,8 +60,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/RajwarManas/DSA-Practise/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/RajwarManas/DSA-Practise/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RajwarManas/DSA-Practise/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 <!---LeetCode Topics End-->
