@@ -22,7 +22,7 @@ public:
     int countNodes(TreeNode* root) {
         int left=leftHeight(root);
         int right=rightHeight(root);
-        if(left==right) return pow(2,left)-1;
+        if(left==right) return (1<<left)-1;
         return 1+countNodes(root->left)+countNodes(root->right);
     }
 };
