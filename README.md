@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/RajwarManas/DSA-Practise/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/RajwarManas/DSA-Practise/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/RajwarManas/DSA-Practise/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/RajwarManas/DSA-Practise/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/RajwarManas/DSA-Practise/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/RajwarManas/DSA-Practise/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/RajwarManas/DSA-Practise/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/RajwarManas/DSA-Practise/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Dynamic Programming
@@ -104,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RajwarManas/DSA-Practise/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RajwarManas/DSA-Practise/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 <!---LeetCode Topics End-->
