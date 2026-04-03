@@ -10,23 +10,30 @@
  * };
  */
 class BSTIterator {
-    vector<int> inorder;
-    int pos=0;
-    void build(TreeNode* root) {
-        if(root==NULL) return;
-        build(root->left);
-        inorder.push_back(root->val);
-        build(root->right);
-    }
+    stack<TreeNode*> st;
 public:
     BSTIterator(TreeNode* root) {
-        build(root);
+        while(root) {
+            st.push(root);
+            root=root->left;
+        }
     }
     int next() {
-        return inorder[pos++];   
+        TreeNode* node=st.top();
+        st.pop();
+        if(node->right) {
+            TreeNode* curr=node->right;
+            st.push(curr);
+            while(curr->left) {
+                curr=curr->left;
+                st.push(curr);
+            }
+        }
+        return node->val;
     }
+    
     bool hasNext() {
-        return pos<inorder.size();   
+        return !st.empty();
     }
 };
 
