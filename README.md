@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/RajwarManas/DSA-Practise/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RajwarManas/DSA-Practise/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/RajwarManas/DSA-Practise/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/RajwarManas/DSA-Practise/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RajwarManas/DSA-Practise/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/RajwarManas/DSA-Practise/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RajwarManas/DSA-Practise/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/RajwarManas/DSA-Practise/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 ## Iterator
 | Problem Name | Difficulty |
