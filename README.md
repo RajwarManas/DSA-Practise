@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/RajwarManas/DSA-Practise/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/RajwarManas/DSA-Practise/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/RajwarManas/DSA-Practise/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/RajwarManas/DSA-Practise/tree/main/1020-number-of-enclaves/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/RajwarManas/DSA-Practise/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/RajwarManas/DSA-Practise/tree/main/0733-flood-fill/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1020-number-of-enclaves](https://github.com/RajwarManas/DSA-Practise/tree/main/1020-number-of-enclaves/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/RajwarManas/DSA-Practise/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 ## Binary Tree
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/RajwarManas/DSA-Practise/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/RajwarManas/DSA-Practise/tree/main/1020-number-of-enclaves/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/RajwarManas/DSA-Practise/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/RajwarManas/DSA-Practise/tree/main/0547-number-of-provinces/) | Medium |
+| [1020-number-of-enclaves](https://github.com/RajwarManas/DSA-Practise/tree/main/1020-number-of-enclaves/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/RajwarManas/DSA-Practise/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/RajwarManas/DSA-Practise/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/RajwarManas/DSA-Practise/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/RajwarManas/DSA-Practise/tree/main/1020-number-of-enclaves/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
