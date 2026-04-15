@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/RajwarManas/DSA-Practise/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/RajwarManas/DSA-Practise/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0127-word-ladder](https://github.com/RajwarManas/DSA-Practise/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/RajwarManas/DSA-Practise/tree/main/0130-surrounded-regions/) | Medium |
 | [0207-course-schedule](https://github.com/RajwarManas/DSA-Practise/tree/main/0207-course-schedule/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RajwarManas/DSA-Practise/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RajwarManas/DSA-Practise/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0127-word-ladder](https://github.com/RajwarManas/DSA-Practise/tree/main/0127-word-ladder/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RajwarManas/DSA-Practise/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0127-word-ladder](https://github.com/RajwarManas/DSA-Practise/tree/main/0127-word-ladder/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Design
 | Problem Name | Difficulty |
