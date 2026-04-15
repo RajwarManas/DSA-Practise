@@ -1,41 +1,38 @@
 class Solution {
 public:
-    bool oneLetterDiff(string s1, string s2) {
-        if (s1.length() != s2.length()) return false;
-        int diff = 0;
-        for (int i = 0; i < s1.length(); i++) {
-            if (s1[i] != s2[i]) {
-                diff++;
-                if (diff > 1) return false;
-            }
-        }
-        return diff == 1;
-    }
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
-        int s=wordList.size(),count=0;
-        vector<int> vis(s,0);
         queue<string> q;
-        bool wordFound=false;
+        unordered_map<string,bool> um;
+        unordered_map<string,bool> vis;
+        int count=1,wl=beginWord.length();
+        bool possible=0,wordFound=0;
+        for(string& x:wordList) {
+            if(x==endWord) possible=1;
+            um[x]=1;
+            vis[x]=0;
+        }
+        if(!possible) return 0;
         q.push(beginWord);
+        vis[beginWord]=1;
         while(!q.empty()) {
             int size=q.size();
             for(int i=0;i<size;i++) {
-                auto word=q.front();
-                if(word==endWord) {
-                    while(!q.empty()) q.pop();
-                    wordFound=true;
-                    break;
-                }
+                string word=q.front();
                 q.pop();
-                for(int i=0;i<s;i++) {
-                    if(oneLetterDiff(wordList[i],word)&&!vis[i]) {
-                        q.push(wordList[i]);
-                        vis[i]=1;
+                for(int j=0;j<wl;j++) {
+                    string copy=word;
+                    for(int k=0;k<26;k++) {
+                        copy[j]='a'+k;
+                        if(um.find(copy)!=um.end()&&vis[copy]==0) {
+                            q.push(copy);
+                            vis[copy]=1;
+                            if(copy==endWord) return count+1;
+                        }
                     }
                 }
             }
             count++;
         }
-        return wordFound? count: 0 ;
+        return 0;
     }
 };
