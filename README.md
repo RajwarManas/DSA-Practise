@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/RajwarManas/DSA-Practise/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/RajwarManas/DSA-Practise/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/RajwarManas/DSA-Practise/tree/main/1020-number-of-enclaves/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/RajwarManas/DSA-Practise/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/RajwarManas/DSA-Practise/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
