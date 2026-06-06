@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RajwarManas/DSA-Practise/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0130-surrounded-regions](https://github.com/RajwarManas/DSA-Practise/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/RajwarManas/DSA-Practise/tree/main/0200-number-of-islands/) | Medium |
+| [0283-move-zeroes](https://github.com/RajwarManas/DSA-Practise/tree/main/0283-move-zeroes/) | Easy |
 | [0542-01-matrix](https://github.com/RajwarManas/DSA-Practise/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/RajwarManas/DSA-Practise/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/RajwarManas/DSA-Practise/tree/main/0994-rotting-oranges/) | Medium |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RajwarManas/DSA-Practise/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0283-move-zeroes](https://github.com/RajwarManas/DSA-Practise/tree/main/0283-move-zeroes/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RajwarManas/DSA-Practise/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
