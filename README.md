@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RajwarManas/DSA-Practise/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0057-insert-interval](https://github.com/RajwarManas/DSA-Practise/tree/main/0057-insert-interval/) | Medium |
+| [0075-sort-colors](https://github.com/RajwarManas/DSA-Practise/tree/main/0075-sort-colors/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RajwarManas/DSA-Practise/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RajwarManas/DSA-Practise/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0130-surrounded-regions](https://github.com/RajwarManas/DSA-Practise/tree/main/0130-surrounded-regions/) | Medium |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/RajwarManas/DSA-Practise/tree/main/0075-sort-colors/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RajwarManas/DSA-Practise/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/RajwarManas/DSA-Practise/tree/main/0075-sort-colors/) | Medium |
 | [0283-move-zeroes](https://github.com/RajwarManas/DSA-Practise/tree/main/0283-move-zeroes/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RajwarManas/DSA-Practise/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Union-Find
