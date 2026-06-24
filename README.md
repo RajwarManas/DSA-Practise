@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RajwarManas/DSA-Practise/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0053-maximum-subarray](https://github.com/RajwarManas/DSA-Practise/tree/main/0053-maximum-subarray/) | Medium |
 | [0057-insert-interval](https://github.com/RajwarManas/DSA-Practise/tree/main/0057-insert-interval/) | Medium |
 | [0075-sort-colors](https://github.com/RajwarManas/DSA-Practise/tree/main/0075-sort-colors/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RajwarManas/DSA-Practise/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/RajwarManas/DSA-Practise/tree/main/0053-maximum-subarray/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RajwarManas/DSA-Practise/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0542-01-matrix](https://github.com/RajwarManas/DSA-Practise/tree/main/0542-01-matrix/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/RajwarManas/DSA-Practise/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RajwarManas/DSA-Practise/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RajwarManas/DSA-Practise/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 ## String
