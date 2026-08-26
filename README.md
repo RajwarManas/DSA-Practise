@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/RajwarManas/DSA-Practise/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/RajwarManas/DSA-Practise/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0126-word-ladder-ii](https://github.com/RajwarManas/DSA-Practise/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/RajwarManas/DSA-Practise/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/RajwarManas/DSA-Practise/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/RajwarManas/DSA-Practise/tree/main/0200-number-of-islands/) | Medium |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RajwarManas/DSA-Practise/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RajwarManas/DSA-Practise/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0126-word-ladder-ii](https://github.com/RajwarManas/DSA-Practise/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/RajwarManas/DSA-Practise/tree/main/0127-word-ladder/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RajwarManas/DSA-Practise/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/RajwarManas/DSA-Practise/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/RajwarManas/DSA-Practise/tree/main/0127-word-ladder/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Design
@@ -231,5 +234,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bidirectional Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/RajwarManas/DSA-Practise/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/RajwarManas/DSA-Practise/tree/main/0127-word-ladder/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/RajwarManas/DSA-Practise/tree/main/0126-word-ladder-ii/) | Hard |
 <!---LeetCode Topics End-->
