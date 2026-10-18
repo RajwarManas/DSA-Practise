@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/RajwarManas/DSA-Practise/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RajwarManas/DSA-Practise/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0733-flood-fill](https://github.com/RajwarManas/DSA-Practise/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/RajwarManas/DSA-Practise/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/RajwarManas/DSA-Practise/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RajwarManas/DSA-Practise/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/RajwarManas/DSA-Practise/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/RajwarManas/DSA-Practise/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RajwarManas/DSA-Practise/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0733-flood-fill](https://github.com/RajwarManas/DSA-Practise/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/RajwarManas/DSA-Practise/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/RajwarManas/DSA-Practise/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RajwarManas/DSA-Practise/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/RajwarManas/DSA-Practise/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/RajwarManas/DSA-Practise/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/RajwarManas/DSA-Practise/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/RajwarManas/DSA-Practise/tree/main/0547-number-of-provinces/) | Medium |
+| [0743-network-delay-time](https://github.com/RajwarManas/DSA-Practise/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/RajwarManas/DSA-Practise/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RajwarManas/DSA-Practise/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/RajwarManas/DSA-Practise/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -281,17 +284,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/RajwarManas/DSA-Practise/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RajwarManas/DSA-Practise/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/RajwarManas/DSA-Practise/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/RajwarManas/DSA-Practise/tree/main/0743-network-delay-time/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RajwarManas/DSA-Practise/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/RajwarManas/DSA-Practise/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RajwarManas/DSA-Practise/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/RajwarManas/DSA-Practise/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RajwarManas/DSA-Practise/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RajwarManas/DSA-Practise/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/RajwarManas/DSA-Practise/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
