@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/RajwarManas/DSA-Practise/tree/main/0200-number-of-islands/) | Medium |
 | [0283-move-zeroes](https://github.com/RajwarManas/DSA-Practise/tree/main/0283-move-zeroes/) | Easy |
 | [0542-01-matrix](https://github.com/RajwarManas/DSA-Practise/tree/main/0542-01-matrix/) | Medium |
+| [0721-accounts-merge](https://github.com/RajwarManas/DSA-Practise/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/RajwarManas/DSA-Practise/tree/main/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/RajwarManas/DSA-Practise/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0994-rotting-oranges](https://github.com/RajwarManas/DSA-Practise/tree/main/0994-rotting-oranges/) | Medium |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/RajwarManas/DSA-Practise/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RajwarManas/DSA-Practise/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0721-accounts-merge](https://github.com/RajwarManas/DSA-Practise/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/RajwarManas/DSA-Practise/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/RajwarManas/DSA-Practise/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/RajwarManas/DSA-Practise/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/RajwarManas/DSA-Practise/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/RajwarManas/DSA-Practise/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RajwarManas/DSA-Practise/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0721-accounts-merge](https://github.com/RajwarManas/DSA-Practise/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/RajwarManas/DSA-Practise/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/RajwarManas/DSA-Practise/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/RajwarManas/DSA-Practise/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/RajwarManas/DSA-Practise/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/RajwarManas/DSA-Practise/tree/main/0127-word-ladder/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RajwarManas/DSA-Practise/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0721-accounts-merge](https://github.com/RajwarManas/DSA-Practise/tree/main/0721-accounts-merge/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/RajwarManas/DSA-Practise/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/RajwarManas/DSA-Practise/tree/main/0075-sort-colors/) | Medium |
+| [0721-accounts-merge](https://github.com/RajwarManas/DSA-Practise/tree/main/0721-accounts-merge/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -198,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/RajwarManas/DSA-Practise/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/RajwarManas/DSA-Practise/tree/main/0127-word-ladder/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RajwarManas/DSA-Practise/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0721-accounts-merge](https://github.com/RajwarManas/DSA-Practise/tree/main/0721-accounts-merge/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/RajwarManas/DSA-Practise/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/RajwarManas/DSA-Practise/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/RajwarManas/DSA-Practise/tree/main/0547-number-of-provinces/) | Medium |
+| [0721-accounts-merge](https://github.com/RajwarManas/DSA-Practise/tree/main/0721-accounts-merge/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/RajwarManas/DSA-Practise/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/RajwarManas/DSA-Practise/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/RajwarManas/DSA-Practise/tree/main/1020-number-of-enclaves/) | Medium |
