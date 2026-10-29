@@ -36,11 +36,6 @@ public:
         }
         int offset = maxRow + 1;
         Disjoint ds(maxRow + maxCol + 2);
-        for(auto stone : stones) {
-            int r = stone[0];
-            int c = stone[1];
-            ds.unionS(r,c+offset);
-        }
         unordered_set<int> used;
         for(auto &stone : stones) {
             int r = stone[0];
