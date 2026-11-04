@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/RajwarManas/DSA-Practise/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/RajwarManas/DSA-Practise/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RajwarManas/DSA-Practise/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0542-01-matrix](https://github.com/RajwarManas/DSA-Practise/tree/main/0542-01-matrix/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RajwarManas/DSA-Practise/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -355,4 +356,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/RajwarManas/DSA-Practise/tree/main/1192-critical-connections-in-a-network/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/RajwarManas/DSA-Practise/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/RajwarManas/DSA-Practise/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
