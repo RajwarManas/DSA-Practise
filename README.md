@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RajwarManas/DSA-Practise/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/RajwarManas/DSA-Practise/tree/main/0053-maximum-subarray/) | Medium |
 | [0057-insert-interval](https://github.com/RajwarManas/DSA-Practise/tree/main/0057-insert-interval/) | Medium |
+| [0063-unique-paths-ii](https://github.com/RajwarManas/DSA-Practise/tree/main/0063-unique-paths-ii/) | Medium |
 | [0075-sort-colors](https://github.com/RajwarManas/DSA-Practise/tree/main/0075-sort-colors/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RajwarManas/DSA-Practise/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/RajwarManas/DSA-Practise/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/RajwarManas/DSA-Practise/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/RajwarManas/DSA-Practise/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/RajwarManas/DSA-Practise/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/RajwarManas/DSA-Practise/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RajwarManas/DSA-Practise/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/RajwarManas/DSA-Practise/tree/main/0198-house-robber/) | Medium |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/RajwarManas/DSA-Practise/tree/main/0063-unique-paths-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/RajwarManas/DSA-Practise/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/RajwarManas/DSA-Practise/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/RajwarManas/DSA-Practise/tree/main/0542-01-matrix/) | Medium |
